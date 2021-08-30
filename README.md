@@ -3,7 +3,7 @@ Tool to be installed : GSEA
 Download link : http://www.gsea-msigdb.org/gsea/downloads.jsp
 
 How to use the example folder:
-1. Download the zip file or clone the project
+1. Download the zip file or clone the repository.
 2. Open the GSEA application
 3. ![1](https://user-images.githubusercontent.com/34687633/131396186-ce783a0e-3159-4ccc-8ed3-3308746e7b1e.png)
 4. From the downloaded or cloned project open the example folder
