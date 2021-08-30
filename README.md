@@ -15,6 +15,11 @@ How to use the example folder:
 10. ![3](https://user-images.githubusercontent.com/34687633/131398595-e4ef9912-1175-431f-9093-cb39f1327811.png)
 11. Choose No_collapse option from the right side, give an appropriate name for the analysis, set Max size as 9999 and Min size as 1, finally click the run button from the bottom.
 12. ![4](https://user-images.githubusercontent.com/34687633/131399332-5adcb191-9d71-4777-90ab-d7ab42b0002e.png)
+13. To see the result go to the directory that you set for the "Save result in this folder" or, click the green success status from the left side.![5](https://user-images.githubusercontent.com/34687633/131399988-67c2c8f5-2fc0-46a9-956c-582268dcb0fd.png)
+14. Output file is a HTML page 
+15.![6](https://user-images.githubusercontent.com/34687633/131400299-768af2c5-f134-4595-a37c-da16d98dd650.png)
+
+
 
 
 
