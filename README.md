@@ -1,4 +1,4 @@
-# Compendium-Multiple-Myeloma
+# MM_CPG_Signatures
 Tool to be installed : GSEA
 Download link : http://www.gsea-msigdb.org/gsea/downloads.jsp
 
