@@ -1,4 +1,4 @@
-# MM_CPG_Signatures
+# MM_CGP_Signatures
 Tool to be installed : GSEA
 Download link : http://www.gsea-msigdb.org/gsea/downloads.jsp
 
