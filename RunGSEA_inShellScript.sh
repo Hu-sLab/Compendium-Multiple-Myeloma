@@ -1,4 +1,4 @@
-declare -a grp_files_array
+
 mkdir outputGSEA
 for rnk in *.rnk
 do
