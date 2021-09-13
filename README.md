@@ -21,7 +21,7 @@ How to use the example folder:
 15.![6](https://user-images.githubusercontent.com/34687633/131400299-768af2c5-f134-4595-a37c-da16d98dd650.png)
 
 
-**Make RunGSEA_inShellScript.sh executable in the linux terminal**
+**RunGSEA_inShellScript.sh is a shell script.You have to make RunGSEA_inShellScript.sh executable in the linux terminal**
 
 1. chown your_username RunGSEA_inShellScript.sh
 2. chmod 777 RunGSEA_inShellScript.sh
