@@ -35,9 +35,9 @@ How to use the example folder:
 5. You will find your result in a directory name outputGSEA in the current directory.
 6. ![7](https://user-images.githubusercontent.com/34687633/131409160-a5895d51-8fbb-4683-b8c3-79e7b45e3b5e.png)
 7. Run in the terminal like this 
-8. ./RunGSEA_inShellScript.sh   
+8. ./RunGSEA_inShellScript.sh   (if you are in the current directory)
 9. Or, you can choose the bash command below
-10. bash RunGSEA_inShellScript.sh
+10. bash RunGSEA_inShellScript.sh (if you are in the current directory)
  
 
 
