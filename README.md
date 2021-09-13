@@ -22,8 +22,9 @@ How to use the example folder:
 
 # How to use multiple rank files against one or multiple grp files.
 **Make RunGSEA_inShellScript.sh executable in the linux terminal
-chown your_username RunGSEA_inShellScript.sh
-chmod 777 RunGSEA_inShellScript.sh**
+
+a. chown your_username RunGSEA_inShellScript.sh
+b. chmod 777 RunGSEA_inShellScript.sh
 
 1. For this you have to run the shell script file RunGSEA_inShellScript.sh
 2. Put this file in the folder where all your .rnk (rank file) files exist.
