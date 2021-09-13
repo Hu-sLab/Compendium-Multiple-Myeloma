@@ -21,12 +21,20 @@ How to use the example folder:
 15.![6](https://user-images.githubusercontent.com/34687633/131400299-768af2c5-f134-4595-a37c-da16d98dd650.png)
 
 # How to use multiple rank files against one or multiple grp files.
+**Make RunGSEA_inShellScript.sh executable in the linux terminal
+chown your_username RunGSEA_inShellScript.sh
+chmod 777 RunGSEA_inShellScript.sh**
+
 1. For this you have to run the shell script file RunGSEA_inShellScript.sh
 2. Put this file in the folder where all your .rnk (rank file) files exist.
 3. You have edit the path of the grp files in this shell script file.
 4. Replace this path with your grp files path /data/compendium/grp/ in the shell script
 5. You will find your result in a directory name outputGSEA in the current directory.
 6. ![7](https://user-images.githubusercontent.com/34687633/131409160-a5895d51-8fbb-4683-b8c3-79e7b45e3b5e.png)
+7. Run in the terminal like this 
+./RunGSEA_inShellScript.sh 
+or,
+bash RunGSEA_inShellScript.sh 
 
 
 
