@@ -1,4 +1,4 @@
-
+#!/bin/bash
 mkdir outputGSEA
 for rnk in *.rnk
 do
